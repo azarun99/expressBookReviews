@@ -1,0 +1,1 @@
+curl -X DELETE "http://localhost:5000/customer/auth/review/1" -H "Content-Type: application/json" -c cookie.txt -b cookie.txt

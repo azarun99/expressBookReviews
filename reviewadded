@@ -1,0 +1,1 @@
+curl -X PUT "http://localhost:5000/customer/auth/review/1?review=Fantastic%20read!" -H "Content-Type: application/json" -c cookie.txt -b cookie.txt
